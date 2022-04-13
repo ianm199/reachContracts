@@ -1,0 +1,5 @@
+What actually is the Vault App?
+https://algoexplorer.io/application/465814318
+* So we believe the contract is creating additional accounts 1:1 for each vault participant
+* * Circle back on this
+* So the main contract isn't storing the ALGOs in this case, it's more of intermediary
